@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Flash Cards - Mitos e Verdades</title>
+
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<h1>✨ Flash Cards ✨</h1>
+<h2>Mitos e Verdades sobre as Princesas da Disney</h2>
+
+<div class="container">
+
+<div class="card">
+<div class="frente">
+<img src="imagens/branca.jpg">
+<h3>Branca de Neve</h3>
+<p>Mito ou Verdade?</p>
+</div>
+
+<div class="verso">
+<h3>MITO</h3>
+<p>Ela não tinha 7 anões como empregados. Eles eram seus amigos e ofereceram abrigo.</p>
+</div>
+</div>
+
+<div class="card">
+<div class="frente">
+<img src="imagens/cinderela.jpg">
+<h3>Cinderela</h3>
+<p>Mito ou Verdade?</p>
+</div>
+
+<div class="verso">
+<h3>VERDADE</h3>
+<p>Ela perdeu apenas um sapatinho de cristal durante o baile.</p>
+</div>
+</div>
+
+<div class="card">
+<div class="frente">
+<img src="imagens/ariel.jpg">
+<h3>Ariel</h3>
+<p>Mito ou Verdade?</p>
+</div>
+
+<div class="verso">
+<h3>MITO</h3>
+<p>Ariel não desistiu da própria voz por amor apenas. Ela também queria conhecer o mundo humano.</p>
+</div>
+</div>
+
+<div class="card">
+<div class="frente">
+<img src="imagens/bela.jpg">
+<h3>Bela</h3>
+<p>Mito ou Verdade?</p>
+</div>
+
+<div class="verso">
+<h3>VERDADE</h3>
+<p>Bela adorava livros e sonhava com aventuras além de sua aldeia.</p>
+</div>
+</div>
+
+<div class="card">
+<div class="frente">
+<img src="imagens/moana.jpg">
+<h3>Moana</h3>
+<p>Mito ou Verdade?</p>
+</div>
+
+<div class="verso">
+<h3>VERDADE</h3>
+<p>Moana nunca foi oficialmente chamada de princesa dentro da história do filme.</p>
+</div>
+</div>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
